@@ -2,7 +2,16 @@
 console.log("Hello World");
 ```
 
-<img src="./HelloRicardo.gif" width=500 height=280 align-items=center >
+  <img src="./HelloRicardo.gif" width=500 height=280 >
+## About Me
+
+<p>
+I am a Full-Stack web developer passionate
+<br/>
+about technologies.
+I love learning and meeting new
+challenges
+</p></img>
  
  ## Code Snippet
 ---
@@ -17,23 +26,15 @@ city: "Buenos Aires",
 country: "Argentina",
 code: [Javascript, Css, Html],
 tools: [React, Redux, Node, Express, PostgreSQL, Git, Bootstrap],
-description:
-"I am a Full-Stack web developer passionate about technologies I love learning and meeting new challenges",
 };
 ````
 ---
 
-<img src="./RicardoRa.gif"  align-items= center width=600 height=250>
+<img src="./Hey.png"  align-items= center width=600 height=250>
 
-## About Me
+---
 
-<p>
-I am a Full-Stack web developer passionate
-<br/>
-about technologies.
-I love learning and meeting new
-challenges
-</p>
+<img src="./Gracias.gif"  align-items= center width=600 height=250>
 
 ```JavaScript
 console.log("Bye World");
