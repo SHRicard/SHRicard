@@ -49,18 +49,17 @@ export default Ricardo;
 
 
 
-<img src="./RicardoRa.gif"  align-items= center width=600 height=250>
+<img src="./RicardoRa.gif"(https://www.linkedin.com/in/ricardo-ram%C3%ADrez-24478b219)  align-items= center width=600 height=250>
 
 ---
 ## About Me
 <p>
 
-am a Full Stack web developer
- with a passion for technologies. I
+I am a Full-Stack web developer passionate
 <br/>
-love to learn and meet
-<br/>
- challenges and find the best solution
+ about technologies.
+I love learning and meeting new
+challenges
 </p>
 <br/>
 <br/>
