@@ -2,19 +2,12 @@
 console.log("Hello World");
 ```
 
-  <img src="./HelloRicardo.gif" width=500 height=280 >
-## About Me
+  <img src="./HelloRicardo.gif" width=500 height=300 >
 
-<p>
-I am a Full-Stack web developer passionate
-<br/>
-about technologies.
-I love learning and meeting new
-challenges
-</p></img>
- 
- ## Code Snippet
+## Code Snippet
+
 ---
+
 ```JavaScript
 const Ricardo ={
 id: 1,
@@ -27,7 +20,8 @@ country: "Argentina",
 code: [Javascript, Css, Html],
 tools: [React, Redux, Node, Express, PostgreSQL, Git, Bootstrap],
 };
-````
+```
+
 ---
 
 <img src="./Hey.png"  align-items= center width=600 height=250>
