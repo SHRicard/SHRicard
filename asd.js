@@ -1,25 +1,16 @@
-![Hello](HelloRicardo.gif)
-
-# Ricardo Ramirez
-
----
-
-## Code Snippet
-
-```JavaScript
 import React from "react";
 import "./Ricardo.css";
-import ImgTec from "./img/ImgTec.png";
 import JsonTools from "./JsonTools";
 import Link from "./Link";
-
+import ImgTec from "./img/ImgTec.png";
 const Ricardo = () => {
- code = [Javascript, Css, Html];
-  //tools = [React, Redux, Node, Express, PostgreSQL, Git, Bootstrap];
+  code = [Javascript, Css, Html];
+  //   tools = [React, Redux, Node, Express, PostgreSQL, Git, Bootstrap];
+
   return (
-    <>
-      <h1 ClassName="title">Ricardo Ramirez</h1>
-      {code.map((code) =>(
+    <div>
+      <h1 ClassName="title ">Ricardo Ramirez </h1>
+      {code.map((code) => (
         <h3>{code}</h3>
       ))}
       {JsonTools.map((tools) => (
@@ -27,7 +18,7 @@ const Ricardo = () => {
           <li>{tools.name}</li>
         </ul>
       ))}
-    <img >{ImgTec}</img> ![Hello](HelloRicardo.gif)
+      <img>{ImgTec}</img>
       <span>
         <p className="title-p"> About me</p>
         <p className="title-small">
@@ -38,16 +29,13 @@ const Ricardo = () => {
       <Link to="https://www.linkedin.com/in/ricardo-ram%C3%ADrez-24478b219/">
         <button
           type="button"
-          className="col-6 btn btn-warning btn-sm">
+          className="col-6  text-fff  btn btn-warning btn-sm  btn-about "
+        >
           LinkedIn
         </button>
       </Link>
-    </>
+    </div>
   );
 };
+
 export default Ricardo;
-```
-
----
-
-![Hello](RicardoRa.gif)
