@@ -1,15 +1,9 @@
-<img src="./HelloRicardo.gif" width=600 height=300>
+<img src="./HelloRicardo.gif" width=800 height=400>
  
  
 ## Code Snippet
 ---
 ```JavaScript
-import React from "react";
-import "./Ricardo.css";
-import ImgTec from "./img/ImgTec.png";
-import JsonTools from "./JsonTools";
-import Link from "./Link";
-
 const Ricardo = () => {
 code = [Javascript, Css, Html];
 //tools = [React, Redux, Node, Express, PostgreSQL, Git, Bootstrap];
@@ -45,16 +39,15 @@ LinkedIn
 };
 export default Ricardo;
 
-```
+````
 
 ---
 
-<p align-items= center >asdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd</p>
 
-```
 
 <img src="./RicardoRa.gif"  align-items= center width=600 height=250>
 
-```
 
-```
+```JavaScript
+console.log("Hello World");
+````
