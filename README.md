@@ -1,3 +1,7 @@
+```JavaScript
+console.log("Hello World");
+```
+
 <img src="./HelloRicardo.gif" width=800 height=400>
  
  
@@ -39,7 +43,7 @@ LinkedIn
 };
 export default Ricardo;
 
-````
+```
 
 ---
 
@@ -47,7 +51,19 @@ export default Ricardo;
 
 <img src="./RicardoRa.gif"  align-items= center width=600 height=250>
 
+---
+## About Me
+<p>
 
-```JavaScript
-console.log("Hello World");
-````
+am a Full Stack web developer
+ with a passion for technologies. I
+<br/>
+love to learn and meet
+<br/>
+ challenges and find the best solution
+</p>
+<br/>
+<br/>
+<br/>
+
+```
