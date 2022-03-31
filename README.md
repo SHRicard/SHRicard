@@ -2,7 +2,7 @@
 console.log("Hello World");
 ```
 
-<img src="./HelloRicardo.gif" width=500 height=280>
+<img src="./HelloRicardo.gif" width=500 height=280 align-items=center >
  
  ## Code Snippet
 ---
