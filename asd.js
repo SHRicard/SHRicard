@@ -21,4 +21,13 @@ const Ricardo = () => {
   );
 };
 
+const ricardo = Ricardo;
+const i_love = () => {
+  while (1 === 1) {
+    console.log("I love coding");
+  }
+};
+
+i_love(ricardo);
+
 export default Ricardo;

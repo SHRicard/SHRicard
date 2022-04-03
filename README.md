@@ -2,7 +2,8 @@
 console.log("Hello World");
 ```
 
-  <img src="./HelloRicardo.gif" width=500 height=300 >
+<img src="./Ricardo.png
+  ">
 
 ## Code Snippet
 
