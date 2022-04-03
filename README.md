@@ -2,10 +2,7 @@
 console.log("Hello World");
 ```
 
-<img src="./Ricardo.png
-  ">
-
-## Code Snippet
+<img src="./Ricardo.png">
 
 ---
 
