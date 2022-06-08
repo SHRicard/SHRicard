@@ -19,15 +19,6 @@ code: [Javascript, Css, Html],
 tools: [React, Redux, Node, Express, PostgreSQL, Git, Bootstrap],
 };
 ```
-
----
-
-<img src="./Hey.png"  align-items= center width=600 height=250>
-
----
-
-<img src="./AboutMe!.gif"  align-items= center width=600 height=250>
-
 ```JavaScript
 console.log("Bye World");
 ```
