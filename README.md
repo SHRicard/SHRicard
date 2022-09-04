@@ -11,7 +11,7 @@ const Ricardo ={
 id: 1,
 name: "Ricardo",
 lastname: "Ramirez",
-age: "22",
+age: "31",
 email: "SH_Ricardo@hotmail.com",
 city: "Buenos Aires",
 country: "Argentina",
