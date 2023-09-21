@@ -4,30 +4,53 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador web full-stack apasionado por la tecnología y con sede en Buenos Aires, Argentina. Permíteme contarte un poco más sobre mí:
 
-## Sobre mí
+### [Sobre mí](https://www.linkedin.com/in/ram%C3%ADrezricardo/)
+
 - 🔥 Tengo 32 años y mi pasión por la programación me mantiene joven de espíritu.
 - 📧 Puedes contactarme en: SH_Ricardo@hotmail.com / rricardo.23.11.2022@gmail.com
 - 🌆 Vivo en Buenos Aires, Argentina, y amo esta vibrante ciudad.
 
-const Ricardo = {
-  id: 1,
-  name: "Ricardo",
-  lastname: "Ramirez",
-  age: 32,
-  email: ["SH_Ricardo@hotmail.com","rricardo.23.11.2022@gmail.com"]
-  city: "Buenos Aires",
-  country: "Argentina",
-  technologies: {
-  languagesFrameworks: ["JavaScript", "React", "React-Redux", "CSS", "Bootstrap", "CoreUI", "Sass", "React-Icons"],
-  backend: ["Express", "Sequelize"],
-  dataManagement: ["Axios", "PostgreSQL", "MongoDB"],
-  versionControl: ["GitHub", "NPM"]
-   }
-};
+
+- 👤 **Nombre**: Ricardo Ramirez
+- 🎂 **Edad**: 32 años
+- 🏙️ **Ciudad**: Buenos Aires, Argentina
+- ✉️ **Email**: [SH_Ricardo@hotmail.com](mailto:SH_Ricardo@hotmail.com), [rricardo.23.11.2022@gmail.com](mailto:rricardo.23.11.2022@gmail.com)
+
+### Tecnologías
+
+#### Lenguajes y Frameworks
+
+- 💻 JavaScript
+- ⚛️ React
+- 🔄 React-Redux
+- 🎨 CSS
+- 🅱️ Bootstrap
+- 🌐 CoreUI
+- 🖌️ Sass
+- 🚀 React-Icons
+
+#### Backend
+
+- 🌐 Express
+- 📦 Sequelize
+
+#### Gestión de Datos
+
+- 📡 Axios
+- 🐘 PostgreSQL
+- 🍃 MongoDB
+
+#### Control de Versiones
+
+- 🐱‍💻 GitHub
+- 📦 NPM
 
 
-## Proyectos
-```javascript - Css | React | Redux | Express | Sequelize | Postgres
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ram%C3%ADrezricardo/)
+[![Mi Canal de YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCdV2tPWPrTtcHuwZ5dWtwJQ)
+
+
+
 
 
 ## Proyecto PaisesV2 🌎
