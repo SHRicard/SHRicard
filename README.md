@@ -30,28 +30,59 @@ const Ricardo = {
 ```javascript - Css | React | Redux | Express | Sequelize | Postgres
 
 
-- 🔗 [PaisesV2](https://github.com/SHRicard/Proyecto-PaisesV2):
-La idea general es crear una aplicación en la cual se pueda ver información de distintos paises utilizando la api externa restcountries y a partir de ella poder, entre otras cosas:
-Buscar paises
-Filtrarlos / Ordenarlos
-Crear actividades turísticas.
-## Tecnologías necesarias:
- React
- Redux
- Express
- Sequelize - Postgres
+## Proyecto PaisesV2 🌎
 
+### Descripción 🌟
+¡Bienvenidos a PaisesV2! Este proyecto tiene como objetivo crear una emocionante aplicación para explorar información de diferentes países utilizando la API externa de restcountries. Con PaisesV2, puedes:
 
-- 🔗 [Pokemon](https://github.com/SHRicard/Proyecto-Pokemon):
-La idea general es crear una aplicación en la cual se puedan ver los distintos Pokemon utilizando la api externa pokeapi y a partir de ella poder, entre otras cosas:
-Buscar pokemons
-Filtrarlos / Ordenarlos
-Crear nuevos pokemons
-## Tecnologías necesarias:
-Css
- React
- Redux
- Express
- Sequelize - Postgres
+- 🔎 Buscar países.
+- 🧐 Filtrar y ordenar la información.
+- 🌟 ¡Crear actividades turísticas para cada destino!
+
+### Tecnologías Utilizadas 🚀
+Este proyecto ha sido construido con amor y las siguientes tecnologías:
+
+- 💻 React
+- 🧰 Redux
+- 🚀 Express
+- 🗄️ Sequelize
+- 🐘 PostgreSQL
+
+### Ver Demo en YouTube 📺
+¡Te invitamos a dar un paseo virtual por nuestro proyecto! 🌟
+- 🔗 [Ver video de demostración](https://www.youtube.com/watch?v=7CCPhBV7s7c&t=32s)
+
+### Enlace al Repositorio 🚀
+¡Descubre el código detrás de PaisesV2 en GitHub!
+- 🔗 [GitHub - PaisesV2](https://github.com/SHRicard/Proyecto-PaisesV2)
+
+---
+
+## Proyecto Pokémon 🐱‍👤
+
+### Descripción 🌟
+¡Bienvenidos a Proyecto Pokémon! Este emocionante proyecto te permite explorar el mundo Pokémon utilizando la API externa de pokeapi. Con Proyecto Pokémon, puedes:
+
+- 🔍 Buscar Pokémon.
+- 🧐 Filtrar y ordenarlos.
+- 🧙‍♂️ ¡Crear nuevos Pokémon!
+
+### Tecnologías Utilizadas 🚀
+Este proyecto se ha construido utilizando tecnologías mágicas:
+
+- 💅 CSS
+- ⚛️ React
+- 🔮 Redux
+- 🚀 Express
+- 🗄️ Sequelize
+- 🐘 PostgreSQL
+
+### Ver Demo en YouTube 📺
+¡Acompáñanos en una aventura Pokémon! 🌟
+- 🔗 [Ver video de demostración](https://www.youtube.com/watch?v=CtexV2rBa1A&t=1s)
+
+### Enlace al Repositorio 🚀
+Explora el código fuente de Proyecto Pokémon en GitHub.
+- 🔗 [GitHub - Proyecto Pokémon](https://github.com/SHRicard/Proyecto-Pokemon)
 
 
