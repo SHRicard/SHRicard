@@ -1,7 +1,6 @@
 # ¡Hola, soy Ricardo! 👋
 
-![Ricardo](./Ricardo.png)
-
+![Ricardo](./HelloRicardo.gif)
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador web full-stack apasionado por la tecnología y con sede en Buenos Aires, Argentina. Permíteme contarte un poco más sobre mí:
 
 ### [Sobre mí](https://www.linkedin.com/in/ram%C3%ADrezricardo/)
