@@ -15,35 +15,18 @@
 - 🏙️ **Ciudad**: Buenos Aires, Argentina
 - ✉️ **Email**: [SH_Ricardo@hotmail.com](mailto:SH_Ricardo@hotmail.com), [rricardo.23.11.2022@gmail.com](mailto:rricardo.23.11.2022@gmail.com)
 
-### Tecnologías
-
-#### Lenguajes y Frameworks
-
-- 💻 JavaScript
-- ⚛️ React
-- 🔄 React-Redux
-- 🎨 CSS
-- 🅱️ Bootstrap
-- 🌐 CoreUI
-- 🖌️ Sass
-- 🚀 React-Icons
-
-#### Backend
-
-- 🌐 Express
-- 📦 Sequelize
-
-#### Gestión de Datos
-
-- 📡 Axios
-- 🐘 PostgreSQL
-- 🍃 MongoDB
-
-#### Control de Versiones
-
-- 🐱‍💻 GitHub
-- 📦 NPM
-
+|                        |                           |                       |                           |
+| ---------------------- | ------------------------- |---------------------- | ------------------------- |
+| **Tecnologías**            |                       |                       |                           |
+| **Lenguajes y Frameworks** | **Backend**           | **Gestión de Datos**  | **Control de Versiones**  |
+| 💻 JavaScript              | 🌐 Express            | 📡 Axios              | 🐱‍💻 GitHub               |
+| ⚛️ React                    | 📦 Sequelize          | 🐘 PostgreSQL         | 📦 NPM                    |
+| 🔄 React-Redux             |                       | 🍃 MongoDB            |                           |
+| 🎨 CSS                    |                           |                         |                         |
+| 🅱️ Bootstrap              |                           |                         |                         |
+| 🌐 CoreUI                 |                           |                         |                         |
+| 🖌️ Sass                   |                           |                         |                         |
+| 🚀 React-Icons            |                           |                         |                         |
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ram%C3%ADrezricardo/)
 [![Mi Canal de YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCdV2tPWPrTtcHuwZ5dWtwJQ)
