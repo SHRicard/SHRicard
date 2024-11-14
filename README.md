@@ -37,6 +37,8 @@
 
 https://github.com/SHRicard/SHRicard/blob/output/github-contribution-grid-snake.gif
 ![snake gif](https://github.com/SHRicard/SHRicard/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/SHRicard/SHRicard/output/snake.svg" alt="Snake animation" />
+
 ---
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o proyecto en mente, no dudes en contactarme. 🚀
