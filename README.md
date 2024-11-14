@@ -34,8 +34,8 @@
 ## Enfoque Actual 📱
 
 ## Actualmente, me estoy especializando en el desarrollo móvil para **Android** e **iOS** utilizando **React Native**. Estoy entusiasmado por crear aplicaciones móviles que ofrezcan experiencias fluidas y eficientes a los usuarios.
-
 ![Snake animation](https://raw.githubusercontent.com/SHRicard/SHRicard/output/dist/github-contribution-grid-snake.svg)
+
 
 
 ---
