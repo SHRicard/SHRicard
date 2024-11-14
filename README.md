@@ -1,4 +1,5 @@
 # ¡Hola, soy Ricardo! 👋
+
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador web full-stack y móvil apasionado por la tecnología, con sede en Buenos Aires, Argentina. Permíteme contarte un poco más sobre mí:
 
 ### [Sobre mí](https://www.linkedin.com/in/ram%C3%ADrezricardo/)
@@ -15,13 +16,13 @@
 
 ## Tecnologías 🚀
 
-| **Lenguajes** | **Frontend**          | **Backend**        | **Bases de Datos**  | **Herramientas**    | **Control de Versiones** |
-|---------------|-----------------------|---------------------|---------------------|---------------------|--------------------------|
-| 💻 JavaScript | ⚛️ React              | 🚀 Express          | 🐘 PostgreSQL       | 🧰 Redux Toolkit    | 🐱‍💻 GitHub               |
-| 🅰️ TypeScript | 📱 React Native       | 🌐 Meteor.js        | 🍃 MongoDB           | 📦 Sequelize        | 📦 NPM                    |
-| 🌐 HTML       | 🎨 Material UI        |                     |                     | ⚡ Axios            |                          |
-| 🎨 CSS        | 🅱️ Bootstrap           |                     |                     | 🔍 Lookback4        |                          |
-| 🖌️ Sass       | 🖥️ CoreUI             |                     |                     |                     |                          |
+| **Lenguajes** | **Frontend**    | **Backend**  | **Bases de Datos** | **Herramientas** | **Control de Versiones** |
+| ------------- | --------------- | ------------ | ------------------ | ---------------- | ------------------------ |
+| 💻 JavaScript | ⚛️ React        | 🚀 Express   | 🐘 PostgreSQL      | 🧰 Redux Toolkit | 🐱‍💻 GitHub             |
+| 🅰️ TypeScript | 📱 React Native | 🌐 Meteor.js | 🍃 MongoDB         | 📦 Sequelize     | 📦 NPM                   |
+| 🌐 HTML       | 🎨 Material UI  |              |                    | ⚡ Axios         |                          |
+| 🎨 CSS        | 🅱️ Bootstrap    |              |                    | 🔍 Lookback4     |                          |
+| 🖌️ Sass       | 🖥️ CoreUI       |              |                    |                  |                          |
 
 ## Conéctate conmigo 🌐
 
@@ -30,13 +31,12 @@
 
 ---
 
-
-
 ## Enfoque Actual 📱
 
-Actualmente, me estoy especializando en el desarrollo móvil para **Android** e **iOS** utilizando **React Native**. Estoy entusiasmado por crear aplicaciones móviles que ofrezcan experiencias fluidas y eficientes a los usuarios.
+## Actualmente, me estoy especializando en el desarrollo móvil para **Android** e **iOS** utilizando **React Native**. Estoy entusiasmado por crear aplicaciones móviles que ofrezcan experiencias fluidas y eficientes a los usuarios.
+
+<img src="https://github.com/SHRicard/SHRicard/raw/output/snake.svg" alt="Snake animation" />
 
 ---
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o proyecto en mente, no dudes en contactarme. 🚀
-
