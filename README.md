@@ -35,7 +35,8 @@
 
 ## Actualmente, me estoy especializando en el desarrollo móvil para **Android** e **iOS** utilizando **React Native**. Estoy entusiasmado por crear aplicaciones móviles que ofrezcan experiencias fluidas y eficientes a los usuarios.
 
-![Snake animation]([https://raw.githubusercontent.com/SHRicard/SHRicard/output/dist/github-contribution-grid-snake.svg](https://github.com/SHRicard/SHRicard/blob/output/github-contribution-grid-snake-dark.svg))
+![Snake animation](https://raw.githubusercontent.com/shricard/shricard/output/github-contribution-grid-snake-dark.svg)
+
 
 
 ---
