@@ -5,14 +5,14 @@
 ### [Sobre mí](https://www.linkedin.com/in/ram%C3%ADrezricardo/)
 
 - 🔥 Tengo 33 años y mi pasión por la programación me mantiene joven de espíritu.
-- 📧 Puedes contactarme en: [SH_Ricardo@hotmail.com](mailto:SH_Ricardo@hotmail.com) / [rricardo.23.11.2022@gmail.com](mailto:rricardo.23.11.2022@gmail.com)
+- 📧 Puedes contactarme en: [rricardo.23.11.2022@gmail.com](mailto:rricardo.23.11.2022@gmail.com) / [ricardo.ramirez.dev@gmail.com](mailto:ricardo.ramirez.dev@gmail.com)
 - 🌆 Vivo en Buenos Aires, Argentina, y amo esta vibrante ciudad.
 - 📱 Actualmente me estoy enfocando en el desarrollo móvil para Android e iOS utilizando **React Native**.
 
 - 👤 **Nombre**: Ricardo Ramirez
 - 🎂 **Edad**: 33 años
 - 🏙️ **Ciudad**: Buenos Aires, Argentina
-- ✉️ **Email**: [SH_Ricardo@hotmail.com](mailto:SH_Ricardo@hotmail.com), [rricardo.23.11.2022@gmail.com](mailto:rricardo.23.11.2022@gmail.com)
+- ✉️ **Email**:[rricardo.23.11.2022@gmail.com](mailto:rricardo.23.11.2022@gmail.com) / [ricardo.ramirez.dev@gmail.com](mailto:ricardo.ramirez.dev@gmail.com)
 
 ## Tecnologías 🚀
 
