@@ -108,19 +108,20 @@ Actualmente me estoy especializando en el desarrollo de aplicaciones móviles na
 
 ---
 
-## 🎯 Proyectos Destacados
+## 💼 Experiencia Profesional
 
-### 📱 Aplicaciones Móviles
+### 🏢 Trabajo Corporativo
+- 📱 **Desarrollo de aplicaciones móviles** para empresas líderes
+- 🌐 **Aplicaciones web empresariales** con tecnologías modernas
+- 🔒 **Proyectos privados** con enfoque en seguridad y escalabilidad
+- 🤝 **Trabajo colaborativo** en equipos multidisciplinarios
 
-- **App Name 1** - Descripción breve del proyecto
-- **App Name 2** - Descripción breve del proyecto
-- **App Name 3** - Descripción breve del proyecto
-
-### 🌐 Aplicaciones Web
-
-- **Web App 1** - Descripción breve del proyecto
-- **Web App 2** - Descripción breve del proyecto
-- **Web App 3** - Descripción breve del proyecto
+### 🎯 Áreas de Especialización
+- ✅ **React Native** - Desarrollo móvil multiplataforma
+- ✅ **Aplicaciones Web** - Frontend y Backend full-stack
+- ✅ **APIs y Microservicios** - Arquitecturas escalables
+- ✅ **Bases de Datos** - PostgreSQL y MongoDB
+- ✅ **DevOps** - Control de versiones y despliegue
 
 ---
 
