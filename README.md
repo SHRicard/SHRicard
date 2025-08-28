@@ -1,20 +1,28 @@
-# 🚀 Ricardo Ramirez - Full Stack Developer
+# ✨ Ricardo Ramirez ✨
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Ricardo!;Full+Stack+Developer;React+Native+Developer;Mobile+%26+Web+Apps" alt="Typing SVG" />
-</div>
-
-<div align="center">
+  
+  ![Ricardo's GitHub Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Ricardo!;Full+Stack+Developer;React+Native+Developer;Mobile+%26+Web+Apps)
+  
+  <br/>
+  
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  
 </div>
 
 ---
 
-## 👨‍💻 Sobre Mí
+## 🌟 Sobre Mí
+
+<div align="center">
+  
+  > *"El código es poesía, y cada app es una historia que contar"* 📱✨
+  
+</div>
 
 ¡Hola! Soy **Ricardo Ramirez** 👋
 
@@ -36,55 +44,61 @@ Crear aplicaciones útiles y bien hechas que la gente disfrute usar.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🎨 Mi Paleta de Tecnologías
 
-### **Frontend & Mobile**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-### **UI/UX Frameworks**
-
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CoreUI](https://img.shields.io/badge/CoreUI-2F74CA?style=for-the-badge&logo=coreui&logoColor=white)
-
-### **Backend & APIs**
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Meteor](https://img.shields.io/badge/Meteor-FF6B6B?style=for-the-badge&logo=meteor&logoColor=white)
-
-### **Bases de Datos**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **Herramientas & Librerías**
-
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-
-### **Control de Versiones & DevOps**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+<div align="center">
+  
+  ### **Frontend & Mobile** 🎨
+  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+  
+  ### **UI/UX Frameworks** 🎭
+  
+  ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![CoreUI](https://img.shields.io/badge/CoreUI-2F74CA?style=for-the-badge&logo=coreui&logoColor=white)
+  
+  ### **Backend & APIs** ⚙️
+  
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+  ![Meteor](https://img.shields.io/badge/Meteor-FF6B6B?style=for-the-badge&logo=meteor&logoColor=white)
+  
+  ### **Bases de Datos** 🗄️
+  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  
+  ### **Herramientas & Librerías** 🛠️
+  
+  ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+  ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+  ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+  
+  ### **Control de Versiones & DevOps** 🔧
+  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+  
+</div>
 
 ---
 
-## 📱 Enfoque Actual - Desarrollo Móvil
+## 📱 Mi Mundo Móvil
 
 <div align="center">
+  
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  
 </div>
 
 Actualmente me estoy enfocando en el desarrollo de aplicaciones móviles para **Android** e **iOS** con **React Native**. Me gusta crear apps que sean fáciles de usar y funcionen bien.
@@ -117,7 +131,7 @@ Actualmente me estoy enfocando en el desarrollo de aplicaciones móviles para **
 
 ---
 
-## 📊 Actividad en GitHub
+## 📊 Mi Actividad en GitHub
 
 <div align="center">
   
@@ -129,9 +143,10 @@ Actualmente me estoy enfocando en el desarrollo de aplicaciones móviles para **
 
 ---
 
-## 📫 Contacto
+## 🌐 Conectemos
 
 <div align="center">
+  
   <a href="https://www.linkedin.com/in/ram%C3%ADrezricardo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -144,6 +159,7 @@ Actualmente me estoy enfocando en el desarrollo de aplicaciones móviles para **
   <a href="mailto:ricardo.ramirez.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Dev" />
   </a>
+  
 </div>
 
 ### 📧 Emails de Contacto
@@ -159,7 +175,7 @@ Actualmente me estoy enfocando en el desarrollo de aplicaciones móviles para **
 
 ---
 
-## 🎨 Animación de Contribuciones
+## 🎨 Mi Historia de Contribuciones
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/shricard/shricard/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -167,16 +183,22 @@ Actualmente me estoy enfocando en el desarrollo de aplicaciones móviles para **
 
 ---
 
-## 💡 Frase Motivacional
+## 💫 Frase del Día
 
-> _"La tecnología es mejor cuando une a las personas."_ - Matt Mullenweg
+<div align="center">
+  
+  > *"La tecnología es mejor cuando une a las personas."* - Matt Mullenweg
+  
+</div>
 
 ---
 
 <div align="center">
+  
   <img src="https://komarev.com/ghpvc/?username=shricard&style=flat-square&color=00D4FF" alt="Profile Views" />
   
-  ### ¡Gracias por visitar mi perfil! 🚀
+  ### ✨ ¡Gracias por visitar mi perfil! ✨
   
-  *¿Tienes un proyecto en mente? ¡Me encantaría escuchar sobre él!*
+  *¿Tienes un proyecto en mente? ¡Me encantaría escuchar sobre él!* 🌟
+  
 </div>
