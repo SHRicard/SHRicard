@@ -140,9 +140,6 @@ Actualmente me estoy enfocando en el desarrollo de aplicaciones móviles para **
   <a href="mailto:rricardo.23.11.2022@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="mailto:ricardo.ramirez.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Dev" />
-  </a>
   
 </div>
 
