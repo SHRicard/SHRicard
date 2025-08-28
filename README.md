@@ -16,7 +16,11 @@
 
 ## 👨‍💻 Sobre Mí
 
-¡Hola! Soy **Ricardo Ramirez**, un desarrollador Full Stack apasionado por la innovación tecnológica y la creación de experiencias digitales excepcionales. Con 34 años de experiencia vital y sede en la vibrante ciudad de Buenos Aires, Argentina, me especializo en el desarrollo de aplicaciones web y móviles de última generación.
+¡Hola! Soy **Ricardo Ramirez** 👋
+
+Un desarrollador Full Stack de 34 años que vive y respira código en Buenos Aires, Argentina. Me apasiona crear apps que la gente realmente use y ame, desde aplicaciones móviles hasta plataformas web complejas.
+
+**En resumen:** Construyo cosas que funcionan y se ven geniales 🚀
 
 ### 🎯 Mi Misión
 
