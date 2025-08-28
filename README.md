@@ -30,17 +30,17 @@ Un desarrollador Full Stack de 34 años que vive en Buenos Aires, Argentina. Me 
 
 **En resumen:** Hago apps que funcionan bien 🚀
 
-### 🎯 Mi Objetivo
-
-Crear aplicaciones útiles y bien hechas que la gente disfrute usar.
-
-### 🌟 Sobre Mí
-
-- 🔥 Me gusta aprender nuevas tecnologías
-- 📱 Me enfoco en desarrollo móvil con React Native
-- 🚀 Busco hacer apps que funcionen bien y se vean bien
-- 🤝 Me gusta trabajar en equipo
-- 📈 Siempre trato de mejorar mis habilidades
+<div align="center">
+  
+  | 🎯 **Mi Objetivo** | 🌟 **Sobre Mí** |
+  |-------------------|-----------------|
+  | Crear aplicaciones útiles y bien hechas que la gente disfrute usar | 🔥 Me gusta aprender nuevas tecnologías |
+  | | 📱 Me enfoco en desarrollo móvil con React Native |
+  | | 🚀 Busco hacer apps que funcionen bien y se vean bien |
+  | | 🤝 Me gusta trabajar en equipo |
+  | | 📈 Siempre trato de mejorar mis habilidades |
+  
+</div>
 
 ---
 
@@ -48,44 +48,27 @@ Crear aplicaciones útiles y bien hechas que la gente disfrute usar.
 
 <div align="center">
   
-  ### **Frontend & Mobile** 🎨
+  | **Frontend & Mobile** 🎨 | **UI/UX Frameworks** 🎭 |
+  |-------------------------|------------------------|
+  | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) |
+  | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |
+  | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![CoreUI](https://img.shields.io/badge/CoreUI-2F74CA?style=for-the-badge&logo=coreui&logoColor=white) |
+  | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | |
+  | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | |
+  | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | |
+  | ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) | |
   
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+  | **Backend & APIs** ⚙️ | **Bases de Datos** 🗄️ |
+  |---------------------|---------------------|
+  | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+  | ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
+  | ![Meteor](https://img.shields.io/badge/Meteor-FF6B6B?style=for-the-badge&logo=meteor&logoColor=white) | |
   
-  ### **UI/UX Frameworks** 🎭
-  
-  ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![CoreUI](https://img.shields.io/badge/CoreUI-2F74CA?style=for-the-badge&logo=coreui&logoColor=white)
-  
-  ### **Backend & APIs** ⚙️
-  
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-  ![Meteor](https://img.shields.io/badge/Meteor-FF6B6B?style=for-the-badge&logo=meteor&logoColor=white)
-  
-  ### **Bases de Datos** 🗄️
-  
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  
-  ### **Herramientas & Librerías** 🛠️
-  
-  ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-  ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
-  ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-  
-  ### **Control de Versiones & DevOps** 🔧
-  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+  | **Herramientas & Librerías** 🛠️ | **Control de Versiones & DevOps** 🔧 |
+  |--------------------------------|-----------------------------------|
+  | ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+  | ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
+  | ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white) | ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) |
   
 </div>
 
@@ -103,31 +86,32 @@ Crear aplicaciones útiles y bien hechas que la gente disfrute usar.
 
 Actualmente me estoy enfocando en el desarrollo de aplicaciones móviles para **Android** e **iOS** con **React Native**. Me gusta crear apps que sean fáciles de usar y funcionen bien.
 
-### 🎯 En Desarrollo Móvil
-
-- ✅ Apps multiplataforma con React Native
-- ✅ Mejorar la experiencia del usuario
-- ✅ Conectar con APIs y servicios
-- ✅ Agregar funcionalidades útiles
-- ✅ Probar y arreglar bugs
+<div align="center">
+  
+  | 🎯 **En Desarrollo Móvil** |
+  |---------------------------|
+  | ✅ Apps multiplataforma con React Native |
+  | ✅ Mejorar la experiencia del usuario |
+  | ✅ Conectar con APIs y servicios |
+  | ✅ Agregar funcionalidades útiles |
+  | ✅ Probar y arreglar bugs |
+  
+</div>
 
 ---
 
 ## 💼 Lo Que Hago
 
-### 🏢 Trabajo Actual
-
-- 📱 Desarrollo de apps móviles con React Native
-- 🌐 Creación de aplicaciones web full-stack
-- 🔧 Trabajo con APIs y bases de datos
-- 🤝 Colaboración en equipos de desarrollo
-
-### 🎯 En Lo Que Me Enfoco
-
-- ✅ React Native para apps móviles
-- ✅ Desarrollo web con React y Node.js
-- ✅ Trabajo con APIs y bases de datos
-- ✅ Control de versiones con Git
+<div align="center">
+  
+  | 🏢 **Trabajo Actual** | 🎯 **En Lo Que Me Enfoco** |
+  |----------------------|---------------------------|
+  | 📱 Desarrollo de apps móviles con React Native | ✅ React Native para apps móviles |
+  | 🌐 Creación de aplicaciones web full-stack | ✅ Desarrollo web con React y Node.js |
+  | 🔧 Trabajo con APIs y bases de datos | ✅ Trabajo con APIs y bases de datos |
+  | 🤝 Colaboración en equipos de desarrollo | ✅ Control de versiones con Git |
+  
+</div>
 
 ---
 
@@ -162,16 +146,15 @@ Actualmente me estoy enfocando en el desarrollo de aplicaciones móviles para **
   
 </div>
 
-### 📧 Emails de Contacto
-
-- **Personal**: [rricardo.23.11.2022@gmail.com](mailto:rricardo.23.11.2022@gmail.com)
-- **Profesional**: [ricardo.ramirez.dev@gmail.com](mailto:ricardo.ramirez.dev@gmail.com)
-
-### 📍 Ubicación
-
-- 🏙️ **Ciudad**: Buenos Aires, Argentina
-- 🌍 **País**: Argentina
-- 🕐 **Zona Horaria**: GMT-3
+<div align="center">
+  
+  | 📧 **Emails de Contacto** | 📍 **Ubicación** |
+  |--------------------------|-----------------|
+  | **Personal**: [rricardo.23.11.2022@gmail.com](mailto:rricardo.23.11.2022@gmail.com) | 🏙️ **Ciudad**: Buenos Aires, Argentina |
+  | **Profesional**: [ricardo.ramirez.dev@gmail.com](mailto:ricardo.ramirez.dev@gmail.com) | 🌍 **País**: Argentina |
+  | | 🕐 **Zona Horaria**: GMT-3 |
+  
+</div>
 
 ---
 
