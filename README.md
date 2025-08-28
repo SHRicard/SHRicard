@@ -1,7 +1,7 @@
 # 🚀 Ricardo Ramirez - Full Stack Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Ricardo!;Full+Stack+Developer;React+Native+Expert;Passionate+Coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Ricardo!;Full+Stack+Developer;React+Native+Developer;Mobile+%26+Web+Apps" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -18,9 +18,9 @@
 
 ¡Hola! Soy **Ricardo Ramirez** 👋
 
-Un desarrollador Full Stack de 34 años que vive y respira código en Buenos Aires, Argentina. Me apasiona crear apps que la gente realmente use y ame, desde aplicaciones móviles hasta plataformas web complejas.
+Un desarrollador Full Stack de 34 años que vive en Buenos Aires, Argentina. Me gusta crear aplicaciones útiles, tanto móviles como web, que la gente disfrute usar.
 
-**En resumen:** Construyo cosas que funcionan y se ven geniales 🚀
+**En resumen:** Hago apps que funcionan bien 🚀
 
 ### 🎯 Mi Objetivo
 
@@ -87,15 +87,15 @@ Crear aplicaciones útiles y bien hechas que la gente disfrute usar.
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
 </div>
 
-Actualmente me estoy especializando en el desarrollo de aplicaciones móviles nativas para **Android** e **iOS** utilizando **React Native**. Mi objetivo es crear experiencias móviles fluidas, eficientes y que deleiten a los usuarios.
+Actualmente me estoy enfocando en el desarrollo de aplicaciones móviles para **Android** e **iOS** con **React Native**. Me gusta crear apps que sean fáciles de usar y funcionen bien.
 
-### 🎯 Objetivos en Desarrollo Móvil
+### 🎯 En Desarrollo Móvil
 
-- ✅ Aplicaciones multiplataforma con React Native
-- ✅ Optimización de rendimiento y experiencia de usuario
-- ✅ Integración con APIs nativas
-- ✅ Implementación de funcionalidades avanzadas
-- ✅ Testing y debugging móvil
+- ✅ Apps multiplataforma con React Native
+- ✅ Mejorar la experiencia del usuario
+- ✅ Conectar con APIs y servicios
+- ✅ Agregar funcionalidades útiles
+- ✅ Probar y arreglar bugs
 
 ---
 
