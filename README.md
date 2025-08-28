@@ -99,15 +99,20 @@ Actualmente me estoy especializando en el desarrollo de aplicaciones móviles na
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Actividad en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shricard&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shricard&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shricard&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&hide=contributions,issues&card_width=400)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shricard&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&card_width=400)
+  
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shricard&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages" />
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shricard&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&card_width=400&langs_count=6)
+  
 </div>
 
 ---
