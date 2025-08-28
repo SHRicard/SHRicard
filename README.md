@@ -39,7 +39,6 @@ Transformar ideas innovadoras en aplicaciones funcionales, elegantes y escalable
 ## 🛠️ Stack Tecnológico
 
 ### **Frontend & Mobile**
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -49,30 +48,25 @@ Transformar ideas innovadoras en aplicaciones funcionales, elegantes y escalable
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### **UI/UX Frameworks**
-
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![CoreUI](https://img.shields.io/badge/CoreUI-2F74CA?style=for-the-badge&logo=coreui&logoColor=white)
 
 ### **Backend & APIs**
-
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Meteor](https://img.shields.io/badge/Meteor-FF6B6B?style=for-the-badge&logo=meteor&logoColor=white)
 
 ### **Bases de Datos**
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### **Herramientas & Librerías**
-
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
 ### **Control de Versiones & DevOps**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -99,24 +93,6 @@ Actualmente me estoy especializando en el desarrollo de aplicaciones móviles na
 
 ---
 
-## 📊 Actividad en GitHub
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shricard&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&hide=contributions,issues&card_width=400)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shricard&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&card_width=400)
-  
-</div>
-
-<div align="center">
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shricard&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&card_width=400&langs_count=6)
-  
-</div>
-
----
-
 ## 💼 Experiencia Profesional
 
 ### 🏢 Trabajo Corporativo
@@ -133,6 +109,18 @@ Actualmente me estoy especializando en el desarrollo de aplicaciones móviles na
 - ✅ **APIs y Microservicios** - Arquitecturas escalables
 - ✅ **Bases de Datos** - PostgreSQL y MongoDB
 - ✅ **DevOps** - Control de versiones y despliegue
+
+---
+
+## 📊 Actividad en GitHub
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shricard&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&hide=contributions,issues&card_width=400)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shricard&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&card_width=400&langs_count=6)
+  
+</div>
 
 ---
 
