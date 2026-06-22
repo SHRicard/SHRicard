@@ -1,0 +1,25 @@
+name: Waka Readme
+
+on:
+  # update once a day
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      # writes WakaTime stats into the README between the START/END:waka markers
+      - name: update WakaTime stats in README
+        uses: athul/waka-readme@master
+        with:
+          # 👉 Tu API key de wakatime.com (Settings > API Key). Guardala como secret WAKATIME_API_KEY.
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          TIME_RANGE: last_7_days
+          SHOW_TITLE: "true"
+          BLOCKS: "░▒▓█"
+          GRAPH_DIRECTION: normal
+          COMMIT_MESSAGE: "📊 Actualizar stats de WakaTime"

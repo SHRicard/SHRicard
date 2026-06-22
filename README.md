@@ -1,6 +1,6 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a4d68,100:00D4FF&height=210&section=header&text=Ricardo%20Ramirez&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=%3E_%20Full%20Stack%20Developer&descAlignY=56&descSize=20&animation=fadeIn" alt="Ricardo Ramirez — Full Stack Developer" />
 
-# `> Ricardo Ramirez_`
+<div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Native+Specialist;Building+mobile+%26+web+apps;Buenos+Aires%2C+Argentina+%F0%9F%87%A6%F0%9F%87%B7)
 
@@ -66,6 +66,35 @@ const ricardo = {
   <br/><br/>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHRicard&theme=react-dark&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="95%" />
+
+</div>
+
+---
+
+## `$ wakatime --today`
+
+<!--
+  ⚙️ Requiere: cuenta gratis en wakatime.com + plugin de WakaTime en tu editor +
+  el secret WAKATIME_API_KEY en el repo. Estas líneas se actualizan solas cada día.
+  ⚠️ NO borres los marcadores START/END de abajo: la action escribe entre ellos.
+-->
+
+<!--START_SECTION:waka-->
+> Conectá WakaTime para ver acá tus horas de código por lenguaje 📊
+<!--END_SECTION:waka-->
+
+---
+
+## `$ ./metrics --full`
+
+<!--
+  ⚙️ Requiere: el secret METRICS_TOKEN (un Personal Access Token) en el repo.
+  El SVG se genera y se commitea solo vía GitHub Actions (workflow metrics.yml).
+-->
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/SHRicard/SHRicard/master/github-metrics.svg" alt="GitHub Metrics" width="95%" />
 
 </div>
 
