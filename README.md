@@ -22,9 +22,9 @@ const ricardo = {
   timezone: "GMT-3",
   focus: ["Mobile Apps", "Web Apps"],
   stack: {
-    mobile:    ["React Native"],
-    frontend:  ["React", "TypeScript", "JavaScript"],
-    backend:   ["Node.js", "Express", "Meteor"],
+    mobile: ["React Native"],
+    frontend: ["React", "TypeScript", "JavaScript"],
+    backend: ["Node.js", "Express", "Meteor"],
     databases: ["PostgreSQL", "MongoDB"],
   },
   currentlyLearning: "siempre algo nuevo",
@@ -40,12 +40,15 @@ const ricardo = {
 <div align="center">
 
 #### Languages & Frameworks
+
 ![Skills](https://skillicons.dev/icons?i=react,ts,js,nodejs,express,html,css,sass&theme=dark)
 
 #### Databases & State
+
 ![Skills](https://skillicons.dev/icons?i=postgres,mongodb,redux,sequelize&theme=dark)
 
 #### Tools & Platforms
+
 ![Skills](https://skillicons.dev/icons?i=git,github,npm,bootstrap,materialui,androidstudio,figma,vscode&theme=dark)
 
 </div>
@@ -56,10 +59,10 @@ const ricardo = {
 
 <div align="center">
 
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu_24.04_LTS-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-  ![GNOME](https://img.shields.io/badge/GNOME_46-4A86CF?style=flat-square&logo=gnome&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Kernel_6.17-FCC624?style=flat-square&logo=linux&logoColor=black)
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu_24.04_LTS-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![GNOME](https://img.shields.io/badge/GNOME_46-4A86CF?style=flat-square&logo=gnome&logoColor=white)
+![Linux](https://img.shields.io/badge/Kernel_6.17-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -88,25 +91,11 @@ Editor:  VS Code
 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHRicard&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 
-  <br/><br/>
+<br/><br/>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHRicard&theme=react-dark&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="95%" />
 
 </div>
-
----
-
-## `$ wakatime --today`
-
-<!--
-  ⚙️ Requiere: cuenta gratis en wakatime.com + plugin de WakaTime en tu editor +
-  el secret WAKATIME_API_KEY en el repo. Estas líneas se actualizan solas cada día.
-  ⚠️ NO borres los marcadores START/END de abajo: la action escribe entre ellos.
--->
-
-<!--START_SECTION:waka-->
-> Conectá WakaTime para ver acá tus horas de código por lenguaje 📊
-<!--END_SECTION:waka-->
 
 ---
 
@@ -131,13 +120,13 @@ Editor:  VS Code
 
 <div align="center">
 
-  <strong>🐍 Snake</strong> · comiéndose mis contribuciones
+<strong>🐍 Snake</strong> · comiéndose mis contribuciones
 
   <img src="https://raw.githubusercontent.com/SHRicard/SHRicard/output/github-contribution-grid-snake-dark.svg" alt="Snake game" width="95%" />
 
-  <br/><br/>
+<br/><br/>
 
-  <strong>🟡 Pac-Man</strong> · round 2
+<strong>🟡 Pac-Man</strong> · round 2
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHRicard/SHRicard/output/pacman-contribution-graph-dark.svg" />
@@ -150,8 +139,8 @@ Editor:  VS Code
 
 <div align="center">
 
-  `// "La tecnología es mejor cuando une a las personas." — Matt Mullenweg`
+`// "La tecnología es mejor cuando une a las personas." — Matt Mullenweg`
 
-  <sub>Gracias por pasar por acá · ¿Tenés un proyecto en mente? Escribime ✦</sub>
+<sub>Gracias por pasar por acá · ¿Tenés un proyecto en mente? Escribime ✦</sub>
 
 </div>
