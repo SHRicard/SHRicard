@@ -1,184 +1,118 @@
-# ✨ Ricardo Ramirez ✨
+<div align="center">
+
+# `> Ricardo Ramirez_`
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Native+Specialist;Building+mobile+%26+web+apps;Buenos+Aires%2C+Argentina+%F0%9F%87%A6%F0%9F%87%B7)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram%C3%ADrezricardo/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdV2tPWPrTtcHuwZ5dWtwJQ)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rricardo.23.11.2022@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=SHRicard&style=flat-square&color=00D4FF&label=visitas)
+
+</div>
+
+---
+
+## `$ whoami`
+
+```js
+const ricardo = {
+  role: "Full Stack Developer",
+  location: "Buenos Aires, Argentina 🇦🇷",
+  timezone: "GMT-3",
+  focus: ["Mobile Apps", "Web Apps"],
+  stack: {
+    mobile:    ["React Native"],
+    frontend:  ["React", "TypeScript", "JavaScript"],
+    backend:   ["Node.js", "Express", "Meteor"],
+    databases: ["PostgreSQL", "MongoDB"],
+  },
+  currentlyLearning: "siempre algo nuevo",
+  openTo: "colaboraciones y buenos proyectos",
+  motto: "El código es poesía, y cada app una historia que contar",
+};
+```
+
+---
+
+## `$ cat tech-stack.txt`
 
 <div align="center">
-  
-  ![Ricardo's GitHub Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Ricardo!;Full+Stack+Developer;React+Native+Developer;Mobile+%26+Web+Apps)
-  
+
+#### Languages & Frameworks
+![Skills](https://skillicons.dev/icons?i=react,ts,js,nodejs,express,html,css,sass&theme=dark)
+
+#### Databases & State
+![Skills](https://skillicons.dev/icons?i=postgres,mongodb,redux,sequelize&theme=dark)
+
+#### Tools & Platforms
+![Skills](https://skillicons.dev/icons?i=git,github,npm,bootstrap,materialui,androidstudio,figma,vscode&theme=dark)
+
+</div>
+
+---
+
+## `$ git log --stat`
+
+<div align="center">
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SHRicard&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SHRicard&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+
   <br/>
-  
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHRicard&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHRicard&theme=react-dark&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="95%" />
+
 </div>
 
 ---
 
-## 🌟 Sobre Mí
+## `$ ls ~/projects --featured`
 
-<div align="center">
-  
-  > *"El código es poesía, y cada app es una historia que contar"* 📱✨
-  
-</div>
+<!--
+  TODO: reemplazá los placeholders por tus repos reales.
+  Tip: fijá (pin) tus mejores repos en tu perfil para destacarlos.
+-->
 
-¡Hola! Soy **Ricardo Ramirez** 👋
+```bash
+# 📱  project-name      → app móvil — qué hace / qué resuelve   [React Native · Node.js]
+# 🌐  project-name      → web app full-stack                    [React · PostgreSQL]
+# ⚙️  project-name      → API / servicio backend                [Express · MongoDB]
+```
 
-Un desarrollador Full Stack de 34 años que vive en Buenos Aires, Argentina. Me gusta crear aplicaciones útiles, tanto móviles como web, que la gente disfrute usar.
-
-**En resumen:** Hago apps que funcionan bien 🚀
-
-<div align="center">
-  
-  | 🎯 **Mi Objetivo** | 🌟 **Sobre Mí** |
-  |-------------------|-----------------|
-  | Crear aplicaciones útiles y bien hechas que la gente disfrute usar | 🔥 Me gusta aprender nuevas tecnologías |
-  | | 📱 Me enfoco en desarrollo móvil con React Native |
-  | | 🚀 Busco hacer apps que funcionen bien y se vean bien |
-  | | 🤝 Me gusta trabajar en equipo |
-  | | 📈 Siempre trato de mejorar mis habilidades |
-  
-</div>
+> 🔗 Mirá todos mis repos en **[github.com/SHRicard](https://github.com/SHRicard?tab=repositories)**
 
 ---
 
-## 🎨 Mi Paleta de Tecnologías
+## `$ ./arcade --play`
 
 <div align="center">
-  
-  | **Frontend & Mobile** 🎨 | **UI/UX Frameworks** 🎭 |
-  |-------------------------|------------------------|
-  | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) |
-  | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |
-  | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![CoreUI](https://img.shields.io/badge/CoreUI-2F74CA?style=for-the-badge&logo=coreui&logoColor=white) |
-  | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | |
-  | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | |
-  | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | |
-  | ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) | |
-  
-  | **Backend & APIs** ⚙️ | **Bases de Datos** 🗄️ |
-  |---------------------|---------------------|
-  | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
-  | ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
-  | ![Meteor](https://img.shields.io/badge/Meteor-FF6B6B?style=for-the-badge&logo=meteor&logoColor=white) | |
-  
-  | **Herramientas & Librerías** 🛠️ | **Control de Versiones & DevOps** 🔧 |
-  |--------------------------------|-----------------------------------|
-  | ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-  | ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
-  | ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white) | ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) |
-  
-</div>
 
----
+  <strong>🐍 Snake</strong> · comiéndose mis contribuciones
 
-## 📱 Mi Mundo Móvil
+  <img src="https://raw.githubusercontent.com/SHRicard/SHRicard/output/github-contribution-grid-snake-dark.svg" alt="Snake game" width="95%" />
 
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  
-</div>
+  <br/><br/>
 
-Actualmente me estoy enfocando en el desarrollo de aplicaciones móviles para **Android** e **iOS** con **React Native**. Me gusta crear apps que sean fáciles de usar y funcionen bien.
+  <strong>🟡 Pac-Man</strong> · round 2
 
-<div align="center">
-  
-  | 🎯 **En Desarrollo Móvil** |
-  |---------------------------|
-  | ✅ Apps multiplataforma con React Native |
-  | ✅ Mejorar la experiencia del usuario |
-  | ✅ Conectar con APIs y servicios |
-  | ✅ Agregar funcionalidades útiles |
-  | ✅ Probar y arreglar bugs |
-  
-</div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHRicard/SHRicard/output/pacman-contribution-graph-dark.svg" />
+    <img alt="Pac-Man game" src="https://raw.githubusercontent.com/SHRicard/SHRicard/output/pacman-contribution-graph.svg" width="95%" />
+  </picture>
 
----
-
-## 💼 Lo Que Hago
-
-<div align="center">
-  
-  | 🏢 **Trabajo Actual** | 🎯 **En Lo Que Me Enfoco** |
-  |----------------------|---------------------------|
-  | 📱 Desarrollo de apps móviles con React Native | ✅ React Native para apps móviles |
-  | 🌐 Creación de aplicaciones web full-stack | ✅ Desarrollo web con React y Node.js |
-  | 🔧 Trabajo con APIs y bases de datos | ✅ Trabajo con APIs y bases de datos |
-  | 🤝 Colaboración en equipos de desarrollo | ✅ Control de versiones con Git |
-  
-</div>
-
----
-
-## 📊 Mi Actividad en GitHub
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shricard&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&hide=contributions,issues&card_width=400)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shricard&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&card_width=400&langs_count=6)
-  
-</div>
-
----
-
-## 🌐 Conectemos
-
-<div align="center">
-  
-  <a href="https://www.linkedin.com/in/ram%C3%ADrezricardo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCdV2tPWPrTtcHuwZ5dWtwJQ" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="mailto:rricardo.23.11.2022@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  
-</div>
-
-<div align="center">
-  
-  | 📧 **Emails de Contacto** | 📍 **Ubicación** |
-  |--------------------------|-----------------|
-  | **Personal**: [rricardo.23.11.2022@gmail.com](mailto:rricardo.23.11.2022@gmail.com) | 🏙️ **Ciudad**: Buenos Aires, Argentina |
-  | **Profesional**: [ricardo.ramirez.dev@gmail.com](mailto:ricardo.ramirez.dev@gmail.com) | 🌍 **País**: Argentina |
-  | | 🕐 **Zona Horaria**: GMT-3 |
-  
-</div>
-
----
-
-## 🎨 Mi Historia de Contribuciones
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/shricard/shricard/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-## 💫 Frase del Día
-
-<div align="center">
-  
-  > *"La tecnología es mejor cuando une a las personas."* - Matt Mullenweg
-  
 </div>
 
 ---
 
 <div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=shricard&style=flat-square&color=00D4FF" alt="Profile Views" />
-  
-  ### ✨ ¡Gracias por visitar mi perfil! ✨
-  
-  *¿Tienes un proyecto en mente? ¡Me encantaría escuchar sobre él!* 🌟
-  
+
+  `// "La tecnología es mejor cuando une a las personas." — Matt Mullenweg`
+
+  <sub>Gracias por pasar por acá · ¿Tenés un proyecto en mente? Escribime ✦</sub>
+
 </div>
