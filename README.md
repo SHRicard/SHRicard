@@ -142,23 +142,6 @@ Editor:  VS Code
 
 ---
 
-## `$ youtube --latest`
-
-<!--
-  ▶️ Tarjetas con tus últimos videos. Requiere el secret YOUTUBE_API_KEY (YouTube Data API v3).
-  ⚠️ NO borres los marcadores BEGIN/END: la action escribe entre ellos.
--->
-
-<div align="center">
-
-  <!-- BEGIN YOUTUBE-CARDS -->
-  Conectá la API de YouTube para mostrar acá tus últimos videos ▶️
-  <!-- END YOUTUBE-CARDS -->
-
-</div>
-
----
-
 ## `$ ./arcade --play`
 
 <div align="center">

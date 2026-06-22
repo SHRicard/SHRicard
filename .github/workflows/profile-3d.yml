@@ -5,6 +5,10 @@ on:
   schedule:
     - cron: "0 18 * * *"
   workflow_dispatch:
+  # también al pushear a master (genera el SVG la primera vez)
+  push:
+    branches:
+      - master
 
 jobs:
   build:
