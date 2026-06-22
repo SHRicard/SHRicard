@@ -52,6 +52,31 @@ const ricardo = {
 
 ---
 
+## `$ neofetch`
+
+<div align="center">
+
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu_24.04_LTS-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+  ![GNOME](https://img.shields.io/badge/GNOME_46-4A86CF?style=flat-square&logo=gnome&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Kernel_6.17-FCC624?style=flat-square&logo=linux&logoColor=black)
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+```bash
+OS:      Ubuntu 24.04.4 LTS  ·  x86_64
+Kernel:  Linux 6.17.0-35-generic
+DE:      GNOME 46  ·  X11
+Host:    Lenovo Legion 5 Pro 16ARH7H
+CPU:     AMD Ryzen 7 6800H  ·  16 threads
+GPU:     AMD Radeon 680M  +  NVIDIA RTX 3060 Laptop
+RAM:     16 GiB
+Shell:   bash
+Editor:  VS Code
+```
+
+---
+
 ## `$ git log --stat`
 
 <div align="center">
@@ -66,6 +91,21 @@ const ricardo = {
   <br/><br/>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHRicard&theme=react-dark&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="95%" />
+
+</div>
+
+---
+
+## `$ render contributions.3d`
+
+<!--
+  🧊 Gráfico isométrico 3D generado por GitHub Actions (workflow profile-3d.yml).
+  No requiere secrets. Se actualiza solo a diario.
+-->
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/SHRicard/SHRicard/master/profile-3d-contrib/profile-night-view.svg" alt="3D contributions graph" width="95%" />
 
 </div>
 
@@ -99,6 +139,23 @@ const ricardo = {
 ```
 
 > 🔗 Mirá todos mis repos en **[github.com/SHRicard](https://github.com/SHRicard?tab=repositories)**
+
+---
+
+## `$ youtube --latest`
+
+<!--
+  ▶️ Tarjetas con tus últimos videos. Requiere el secret YOUTUBE_API_KEY (YouTube Data API v3).
+  ⚠️ NO borres los marcadores BEGIN/END: la action escribe entre ellos.
+-->
+
+<div align="center">
+
+  <!-- BEGIN YOUTUBE-CARDS -->
+  Conectá la API de YouTube para mostrar acá tus últimos videos ▶️
+  <!-- END YOUTUBE-CARDS -->
+
+</div>
 
 ---
 

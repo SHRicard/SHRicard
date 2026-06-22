@@ -1,0 +1,28 @@
+name: GitHub README YouTube Cards
+
+on:
+  # update once a day
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      # escribe las tarjetas de tus últimos videos entre los marcadores BEGIN/END:YOUTUBE-CARDS
+      - uses: DenverCoder1/github-readme-youtube-cards@1.8.0
+        with:
+          # 👉 ID de tu canal (ya tomado de tu link de YouTube)
+          channel_id: UCdV2tPWPrTtcHuwZ5dWtwJQ
+          # 👉 API key de YouTube Data API v3. Guardala como secret YOUTUBE_API_KEY.
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+          comment_tag_name: "YOUTUBE-CARDS"
+          max_videos: 3
+          card_width: 320
+          background_color: "#0D1117"
+          title_color: "#00D4FF"
+          stats_color: "#C9D1D9"
+          theme_context_dark: "true"
