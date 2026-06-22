@@ -85,21 +85,6 @@ const ricardo = {
 
 ---
 
-## `$ ./metrics --full`
-
-<!--
-  ⚙️ Requiere: el secret METRICS_TOKEN (un Personal Access Token) en el repo.
-  El SVG se genera y se commitea solo vía GitHub Actions (workflow metrics.yml).
--->
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/SHRicard/SHRicard/master/github-metrics.svg" alt="GitHub Metrics" width="95%" />
-
-</div>
-
----
-
 ## `$ ls ~/projects --featured`
 
 <!--
