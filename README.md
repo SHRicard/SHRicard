@@ -96,21 +96,6 @@ Editor:  VS Code
 
 ---
 
-## `$ render contributions.3d`
-
-<!--
-  🧊 Gráfico isométrico 3D generado por GitHub Actions (workflow profile-3d.yml).
-  No requiere secrets. Se actualiza solo a diario.
--->
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/SHRicard/SHRicard/master/profile-3d-contrib/profile-night-view.svg" alt="3D contributions graph" width="95%" />
-
-</div>
-
----
-
 ## `$ wakatime --today`
 
 <!--
