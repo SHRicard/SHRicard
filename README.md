@@ -56,7 +56,7 @@ const ricardo = {
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SHRicard&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SHRicard&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SHRicard&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
 
   <br/>
